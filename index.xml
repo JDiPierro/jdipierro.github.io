@@ -74,6 +74,10 @@
       <guid>https://www.thatdipguy.com/post/open_source/</guid>
       <description>
 
+&lt;h4 id=&#34;vagrant-gs-auth&#34;&gt;Vagrant GS Auth&lt;/h4&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/WhoopInc/vagrant-s3auth&#34;&gt;Vagrant S3 Auth&lt;/a&gt; plugin allows you to easily pull Vagrant boxes down from Amazon S3. When Conduce moved from AWS to Google Cloud we needed a similar plugin for Google Storage. It didn&amp;rsquo;t exist.. so &lt;a href=&#34;https://github.com/JDiPierro/vagrant-gsauth&#34;&gt;I created it&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h4 id=&#34;syntaxic-https-chrome-google-com-webstore-detail-syntaxtic-cgjalgdhmbpaacnnejmodfinclbdgaci-hl-en&#34;&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en&#34;&gt;Syntaxic&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;This Chrome extension by &lt;a href=&#34;https://github.com/ajmath&#34;&gt;Andrew Matheny&lt;/a&gt; makes reading code so much nicer! I wanted a new feature in it so&amp;hellip; &lt;a href=&#34;https://github.com/ajmath/Syntaxtic/pull/62&#34;&gt;I added it!&lt;/a&gt;&lt;/p&gt;
@@ -99,6 +103,15 @@
       
       <guid>https://www.thatdipguy.com/post/education/</guid>
       <description>
+
+&lt;h2 id=&#34;conventions&#34;&gt;Conventions&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MongoDB World 2015&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.levelupcon.com/&#34;&gt;LevelUp Con&lt;/a&gt; 2014&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;traditional&#34;&gt;Traditional&lt;/h2&gt;
 
 &lt;h4 id=&#34;the-center-for-digital-imaging-arts-at-boston-university-https-en-wikipedia-org-wiki-center-for-digital-imaging-arts-at-boston-university&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Center_for_Digital_Imaging_Arts_at_Boston_University&#34;&gt;The Center for Digital Imaging Arts at Boston University&lt;/a&gt;&lt;/h4&gt;
 
