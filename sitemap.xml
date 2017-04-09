@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/skills_and_tech/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/open_source/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.thatdipguy.com/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
