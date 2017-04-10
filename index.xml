@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin DiPierro</title>
-    <link>https://www.thatdipguy.com/index.xml</link>
+    <link>https://jdipierro.github.io/index.xml</link>
     <description>Recent content on Justin DiPierro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.thatdipguy.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdipierro.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Summary</title>
-      <link>https://www.thatdipguy.com/post/summary/</link>
+      <link>https://jdipierro.github.io/post/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thatdipguy.com/post/summary/</guid>
+      <guid>https://jdipierro.github.io/post/summary/</guid>
       <description>&lt;p&gt;Hi&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://www.thatdipguy.com/post/experience/</link>
+      <link>https://jdipierro.github.io/post/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thatdipguy.com/post/experience/</guid>
+      <guid>https://jdipierro.github.io/post/experience/</guid>
       <description>
 
 &lt;h4 id=&#34;site-reliability-engineer-at-conduce-https-www-conduce-com&#34;&gt;Site Reliability Engineer at &lt;a href=&#34;https://www.conduce.com&#34;&gt;Conduce&lt;/a&gt;&lt;/h4&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Skills and Tech</title>
-      <link>https://www.thatdipguy.com/post/skills_and_tech/</link>
+      <link>https://jdipierro.github.io/post/skills_and_tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thatdipguy.com/post/skills_and_tech/</guid>
+      <guid>https://jdipierro.github.io/post/skills_and_tech/</guid>
       <description>
 
 &lt;h4 id=&#34;languages&#34;&gt;Languages&lt;/h4&gt;
@@ -76,10 +76,10 @@
     
     <item>
       <title>Open Source</title>
-      <link>https://www.thatdipguy.com/post/open_source/</link>
+      <link>https://jdipierro.github.io/post/open_source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thatdipguy.com/post/open_source/</guid>
+      <guid>https://jdipierro.github.io/post/open_source/</guid>
       <description>
 
 &lt;h4 id=&#34;hashicorp-s-terraform-https-terraform-io&#34;&gt;Hashicorp&amp;rsquo;s &lt;a href=&#34;https://terraform.io&#34;&gt;Terraform&lt;/a&gt;&lt;/h4&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>Education</title>
-      <link>https://www.thatdipguy.com/post/education/</link>
+      <link>https://jdipierro.github.io/post/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.thatdipguy.com/post/education/</guid>
+      <guid>https://jdipierro.github.io/post/education/</guid>
       <description>
 
 &lt;h2 id=&#34;tech-conventions-attended&#34;&gt;Tech Conventions attended&lt;/h2&gt;
