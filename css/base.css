@@ -2113,8 +2113,7 @@ ul li {
   padding-bottom: 2rem;
   padding-top: 2rem;
   height: 70%;
-  word-break: break-word;
-  hyphens: auto; }
+}
 
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
