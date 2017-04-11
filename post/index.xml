@@ -30,27 +30,41 @@
 
 &lt;h6 id=&#34;october-2016-to-present&#34;&gt;October 2016 to Present&lt;/h6&gt;
 
-&lt;p&gt;I work on a team of two responsible for designing and orchestrating the global deployment of our golang web application.&lt;/p&gt;
-
-&lt;p&gt;After working in the stack for only a few months I took over full responsibility for the infrastructure, deployment, and day-to-day operation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilized terraform modules to standardize environment definitions&lt;/li&gt;
+&lt;li&gt;Implemented gitflow style automated deployment using Jenkins Scripted Pipeline&lt;/li&gt;
+&lt;li&gt;Rebuilt infrastructure to reduce costs by 1/3rd while maintaining high availability&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;software-engineer-at-agora-games-https-www-agoragames-com&#34;&gt;Software Engineer at &lt;a href=&#34;https://www.agoragames.com&#34;&gt;Agora Games&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h6 id=&#34;november-2014-to-september-2016&#34;&gt;November 2014 to September 2016&lt;/h6&gt;
 
-&lt;p&gt;As a full-stack engineer on a small team I was involved in all areas of the system and worked with a variety of technologies. I contributed heavily to our backend API written in Python and to our infrastructure automation tooling using SaltStack.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed microservices for videogames using Python, Java, and Typescript&lt;/li&gt;
+&lt;li&gt;Designed data models backed by MongoDB and Elasticsearch&lt;/li&gt;
+&lt;li&gt;Managed deployments to AWS and Rackspace with SaltStack&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;associate-software-engineer-at-commercehub-https-www-commercehub-com&#34;&gt;Associate Software Engineer at &lt;a href=&#34;https://www.commercehub.com&#34;&gt;CommerceHub&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h6 id=&#34;april-2014-to-november-2014&#34;&gt;April 2014 to November 2014&lt;/h6&gt;
 
-&lt;p&gt;My team built a responsive single-page web application backed by several Java microservices. Early in the project I was responsible for setting up the continuous integration and deployment pipeline utilizing Bamboo, Artifactory, and Chef. Throughout the project I contributed heavily to both frontend and backend development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used the YUI Javascript library to build a UI matching design mockups&lt;/li&gt;
+&lt;li&gt;Implemented a microservice using Dropwizard to power the UI&lt;/li&gt;
+&lt;li&gt;Set up continuous deployment using Bamboo, Artifactory, and Chef&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;software-engineer-i-at-tribune-media-services-https-www-gracenote-com&#34;&gt;Software Engineer I at &lt;a href=&#34;https://www.gracenote.com&#34;&gt;Tribune Media Services&lt;/a&gt;&lt;/h4&gt;
 
 &lt;h6 id=&#34;november-2012-to-april-2014&#34;&gt;November 2012 to April 2014&lt;/h6&gt;
 
-&lt;p&gt;I helped maintain and extend a proprietary ETL framework for ingesting television schedules as well as a web-based dashboard for the ETL service. I was also involved with using Ruby and Rails to create prototypes of new web-based versions of several legacy applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduced templates for ETL configurations to reduce copy-paste errors&lt;/li&gt;
+&lt;li&gt;Added LDAP authentication to a Spring web application to track user interaction&lt;/li&gt;
+&lt;li&gt;Used Ruby &amp;amp; Rails to prototype web-based versions of legacy systems&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -64,7 +78,7 @@
 
 &lt;h4 id=&#34;languages&#34;&gt;Languages&lt;/h4&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently most proficient in &lt;strong&gt;Python&lt;/strong&gt;, and &lt;strong&gt;Ruby&lt;/strong&gt;. I have no problem jumping into &lt;strong&gt;Java&lt;/strong&gt; and &lt;strong&gt;Groovy&lt;/strong&gt;. &lt;strong&gt;Javascript&lt;/strong&gt; doesn&amp;rsquo;t (entirely) scare me, and &lt;strong&gt;Typescript&lt;/strong&gt; helps me sleep at night. I can find my way around &lt;strong&gt;Go&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, and have even dug through a &lt;strong&gt;Scala&lt;/strong&gt; codebase to fix a bug. And just for keywords: I do in fact know &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; (including preprocessors).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently most proficient in &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;Ruby&lt;/strong&gt; but I&amp;rsquo;d have no problem jumping back into &lt;strong&gt;Java&lt;/strong&gt; or &lt;strong&gt;Groovy&lt;/strong&gt;. &lt;strong&gt;Javascript&lt;/strong&gt; doesn&amp;rsquo;t (entirely) scare me, and &lt;strong&gt;Typescript&lt;/strong&gt; helps me sleep at night. I can find my way around &lt;strong&gt;Go&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, and have even dug through a &lt;strong&gt;Scala&lt;/strong&gt; codebase to fix a bug. And just for keywords: I do in fact know &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; (including preprocessors).&lt;/p&gt;
 
 &lt;h4 id=&#34;frameworks-and-tools&#34;&gt;Frameworks and Tools&lt;/h4&gt;
 
