@@ -74,7 +74,7 @@
 
 &lt;p&gt;I&amp;rsquo;ve designed and implemented build pipelines in &lt;strong&gt;Jenkins&lt;/strong&gt;, &lt;strong&gt;Gitlab&lt;/strong&gt;, and &lt;strong&gt;Bamboo&lt;/strong&gt;. Several of which included some level of &lt;strong&gt;continuous integration&lt;/strong&gt; to one or more environments.&lt;/p&gt;
 
-&lt;p&gt;I favor &lt;strong&gt;Debian&lt;/strong&gt; based distros of Linux and have deployed to &lt;strong&gt;AWS&lt;/strong&gt; and &lt;strong&gt;Google Cloud&lt;/strong&gt;. I can write &lt;strong&gt;upstart&lt;/strong&gt; and &lt;strong&gt;systemd&lt;/strong&gt; jobs in my sleep and configure &lt;strong&gt;nginx&lt;/strong&gt; or &lt;strong&gt;haproxy&lt;/strong&gt; however you need. I like &lt;strong&gt;Sensu&lt;/strong&gt; to keep an overseeing eye on the health of systems and &lt;strong&gt;prometheus&lt;/strong&gt; for metric tracking.&lt;/p&gt;
+&lt;p&gt;I favor &lt;strong&gt;Debian&lt;/strong&gt; based distros of Linux and have deployed to &lt;strong&gt;AWS&lt;/strong&gt; and &lt;strong&gt;Google Cloud&lt;/strong&gt;. I can write &lt;strong&gt;upstart&lt;/strong&gt; and &lt;strong&gt;systemd&lt;/strong&gt; jobs and configure &lt;strong&gt;nginx&lt;/strong&gt; or &lt;strong&gt;haproxy&lt;/strong&gt; however you need. I like &lt;strong&gt;Sensu&lt;/strong&gt; to keep an overseeing eye on the health of systems and &lt;strong&gt;prometheus&lt;/strong&gt; for metric tracking.&lt;/p&gt;
 
 &lt;p&gt;With &lt;strong&gt;Postgres&lt;/strong&gt;, &lt;strong&gt;Cassandra&lt;/strong&gt;, and &lt;strong&gt;MongoDB&lt;/strong&gt; experience under my belt I can help you scale out your database with or without &lt;strong&gt;SQL&lt;/strong&gt; (The latter being &lt;strong&gt;NoSQL&lt;/strong&gt; for you buzzword fans).&lt;/p&gt;
 
