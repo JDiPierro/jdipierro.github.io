@@ -108,7 +108,7 @@
 
 &lt;h4 id=&#34;hashicorp-s-terraform-https-terraform-io&#34;&gt;Hashicorp&amp;rsquo;s &lt;a href=&#34;https://terraform.io&#34;&gt;Terraform&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p&gt;I &lt;a href=&#34;https://github.com/hashicorp/terraform/pull/13270&#34;&gt;added importability&lt;/a&gt; for some Google Cloud resources.&lt;/p&gt;
+&lt;p&gt;I added the ability to import several Google Cloud resources. Check out my &lt;a href=&#34;https://github.com/hashicorp/terraform/pulls?q=is%3Apr+is%3Aclosed+author%3AJDiPierro&#34;&gt;closed pulled requests&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;vagrant-gs-auth&#34;&gt;Vagrant GS Auth&lt;/h4&gt;
 
@@ -116,7 +116,7 @@
 
 &lt;h4 id=&#34;syntaxic-https-chrome-google-com-webstore-detail-syntaxtic-cgjalgdhmbpaacnnejmodfinclbdgaci-hl-en&#34;&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en&#34;&gt;Syntaxic&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p&gt;This Chrome extension by &lt;a href=&#34;https://github.com/ajmath&#34;&gt;Andrew Matheny&lt;/a&gt; adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so&amp;hellip; &lt;a href=&#34;https://github.com/ajmath/Syntaxtic/pull/62&#34;&gt;I added it&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This Chrome extension by &lt;a href=&#34;https://github.com/ajmath&#34;&gt;Andrew Matheny&lt;/a&gt; adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so &lt;a href=&#34;https://github.com/ajmath/Syntaxtic/pull/62&#34;&gt;I added it&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&#34;gitlab-https-www-gitlab-com&#34;&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt;&lt;/h4&gt;
 
