@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin DiPierro</title>
-    <link>https://jdipierro.github.io/index.xml</link>
+    <link>https://jdipierro.github.io/</link>
     <description>Recent content on Justin DiPierro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://jdipierro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jdipierro.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Summary</title>
@@ -14,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/summary/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been working in software for over 5 years. Throughout my career my main focus has been on backend systems but I can also dig into frontend development with a focus on responsiveness and compatibility.&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been working in software for over 5 years. Throughout my career my main focus has been on infrastructure automation and backend systems but I can also dig into frontend development with a focus on responsiveness and compatibility.</description>
     </item>
     
     <item>
@@ -24,56 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/experience/</guid>
-      <description>
-
-&lt;h4 id=&#34;senior-software-engineer-at-mad-glory-https-www-madglory-com&#34;&gt;Senior Software Engineer at &lt;a href=&#34;https://www.madglory.com&#34;&gt;Mad Glory&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h6 id=&#34;june-2017-to-present&#34;&gt;June 2017 to Present&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Doing awesome things with awesome people&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;site-reliability-engineer-at-conduce-https-www-conduce-com&#34;&gt;Site Reliability Engineer at &lt;a href=&#34;https://www.conduce.com&#34;&gt;Conduce&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h6 id=&#34;october-2016-to-june-2017&#34;&gt;October 2016 to June 2017&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Utilized terraform modules to standardize environment definitions&lt;/li&gt;
-&lt;li&gt;Implemented gitflow style automated deployment using Jenkins Scripted Pipeline&lt;/li&gt;
-&lt;li&gt;Rebuilt infrastructure to reduce costs by 1/3rd while maintaining high availability&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;software-engineer-at-agora-games-https-www-agoragames-com&#34;&gt;Software Engineer at &lt;a href=&#34;https://www.agoragames.com&#34;&gt;Agora Games&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h6 id=&#34;november-2014-to-september-2016&#34;&gt;November 2014 to September 2016&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Developed microservices for videogames using Python, Java, and Typescript&lt;/li&gt;
-&lt;li&gt;Designed data models backed by MongoDB and Elasticsearch&lt;/li&gt;
-&lt;li&gt;Managed deployments to AWS and Rackspace with SaltStack&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;associate-software-engineer-at-commercehub-https-www-commercehub-com&#34;&gt;Associate Software Engineer at &lt;a href=&#34;https://www.commercehub.com&#34;&gt;CommerceHub&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h6 id=&#34;april-2014-to-november-2014&#34;&gt;April 2014 to November 2014&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Used the YUI Javascript library to build a UI matching design mockups&lt;/li&gt;
-&lt;li&gt;Implemented a microservice using Dropwizard to power the UI&lt;/li&gt;
-&lt;li&gt;Set up continuous deployment using Bamboo, Artifactory, and Chef&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;software-engineer-i-at-tribune-media-services-https-www-gracenote-com&#34;&gt;Software Engineer I at &lt;a href=&#34;https://www.gracenote.com&#34;&gt;Tribune Media Services&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h6 id=&#34;november-2012-to-april-2014&#34;&gt;November 2012 to April 2014&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Introduced templates for ETL configurations to reduce copy-paste errors&lt;/li&gt;
-&lt;li&gt;Added LDAP authentication to a Spring web application to track user interaction&lt;/li&gt;
-&lt;li&gt;Used Ruby &amp;amp; Rails to prototype web-based versions of legacy systems&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Senior Software Engineer at PUBG Mad Glory March 2018 to Present  Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams Managed production Kubernetes clusters Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm  Senior Software Engineer at Mad Glory June 2017 to March 2018  Worked with Bethesda Softworks providing expertise in backend engineering and deployment automation  Site Reliability Engineer at Conduce October 2016 to June 2017  Utilized terraform modules to standardize environment definitions Implemented gitflow style automated deployment using Jenkins Scripted Pipeline Rebuilt infrastructure to reduce costs by 1/3rd while maintaining high availability  Software Engineer at Agora Games November 2014 to September 2016  Developed microservices for videogames using Python, Java, and Typescript Designed data models backed by MongoDB and Elasticsearch Managed deployments to AWS and Rackspace with SaltStack  Associate Software Engineer at CommerceHub April 2014 to November 2014  Used the YUI Javascript library to build a UI matching design mockups Implemented a microservice using Dropwizard to power the UI Set up continuous deployment using Bamboo, Artifactory, and Chef  Software Engineer I at Tribune Media Services November 2012 to April 2014  Introduced templates for ETL configurations to reduce copy-paste errors Added LDAP authentication to a Spring web application to track user interaction Used Ruby &amp;amp; Rails to prototype web-based versions of legacy systems  </description>
     </item>
     
     <item>
@@ -82,28 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/skills_and_tech/</guid>
-      <description>
-
-&lt;h4 id=&#34;languages&#34;&gt;Languages&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m currently most proficient in &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;Ruby&lt;/strong&gt; but I&amp;rsquo;d have no problem jumping back into &lt;strong&gt;Java&lt;/strong&gt; or &lt;strong&gt;Groovy&lt;/strong&gt;. &lt;strong&gt;Javascript&lt;/strong&gt; doesn&amp;rsquo;t (entirely) scare me, and &lt;strong&gt;Typescript&lt;/strong&gt; helps me sleep at night. I can find my way around &lt;strong&gt;Go&lt;/strong&gt;, &lt;strong&gt;C++&lt;/strong&gt;, and have even dug through a &lt;strong&gt;Scala&lt;/strong&gt; codebase to fix a bug. And just for keywords: I do in fact know &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt; (including preprocessors).&lt;/p&gt;
-
-&lt;h4 id=&#34;frameworks-and-tools&#34;&gt;Frameworks and Tools&lt;/h4&gt;
-
-&lt;p&gt;When it comes to web frameworks I&amp;rsquo;ve worked with &lt;strong&gt;Rails&lt;/strong&gt;, &lt;strong&gt;Grails&lt;/strong&gt;, &lt;strong&gt;Meteor&lt;/strong&gt;, and &lt;strong&gt;Spring&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SaltStack&lt;/strong&gt; is my favorite configuration management system. I&amp;rsquo;ve had over two years experience using Salt to manage deployments of between 100 and 1000 nodes. I&amp;rsquo;ve also written &lt;strong&gt;Chef&lt;/strong&gt; cookbooks.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve designed and implemented build pipelines in &lt;strong&gt;Jenkins&lt;/strong&gt;, &lt;strong&gt;Gitlab&lt;/strong&gt;, and &lt;strong&gt;Bamboo&lt;/strong&gt;. Several of which included some level of &lt;strong&gt;continuous integration&lt;/strong&gt; to one or more environments.&lt;/p&gt;
-
-&lt;p&gt;I favor &lt;strong&gt;Debian&lt;/strong&gt; based distros of Linux and have deployed to &lt;strong&gt;AWS&lt;/strong&gt; and &lt;strong&gt;Google Cloud&lt;/strong&gt;. I can write &lt;strong&gt;upstart&lt;/strong&gt; and &lt;strong&gt;systemd&lt;/strong&gt; jobs and configure &lt;strong&gt;nginx&lt;/strong&gt; or &lt;strong&gt;haproxy&lt;/strong&gt; however you need. I like &lt;strong&gt;Sensu&lt;/strong&gt; to keep an overseeing eye on the health of systems and &lt;strong&gt;prometheus&lt;/strong&gt; for metric tracking.&lt;/p&gt;
-
-&lt;p&gt;With &lt;strong&gt;Postgres&lt;/strong&gt;, &lt;strong&gt;Cassandra&lt;/strong&gt;, and &lt;strong&gt;MongoDB&lt;/strong&gt; experience under my belt I can help you scale out your database with or without &lt;strong&gt;SQL&lt;/strong&gt; (The latter being &lt;strong&gt;NoSQL&lt;/strong&gt; for you buzzword fans).&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve fallen in love with &lt;strong&gt;Docker&lt;/strong&gt; and have deployed to &lt;strong&gt;Amazon ECS&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;ve got a problem, Yo I&amp;rsquo;ll solve it!&lt;/p&gt;
-</description>
+      <description>Languages I&amp;rsquo;m currently most proficient in Python and Golang but I&amp;rsquo;d have no problem jumping back into Ruby, Java, or Groovy. Javascript doesn&amp;rsquo;t (entirely) scare me but I prefer Typescript. I can find my way around C++ and have even dug through a Scala codebase to fix a bug. And just for keywords: I do in fact know HTML and CSS (including preprocessors).
+Other Tools of the Trade When it comes to web frameworks I&amp;rsquo;ve worked with Rails, Grails, Meteor, and Spring.</description>
     </item>
     
     <item>
@@ -112,28 +44,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/open_source/</guid>
-      <description>
-
-&lt;h4 id=&#34;hashicorp-s-terraform-https-terraform-io&#34;&gt;Hashicorp&amp;rsquo;s &lt;a href=&#34;https://terraform.io&#34;&gt;Terraform&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;I added the ability to import several Google Cloud resources. Check out my &lt;a href=&#34;https://github.com/hashicorp/terraform/pulls?q=is%3Apr+is%3Aclosed+author%3AJDiPierro&#34;&gt;closed pulled requests&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;vagrant-gs-auth&#34;&gt;Vagrant GS Auth&lt;/h4&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://github.com/WhoopInc/vagrant-s3auth&#34;&gt;Vagrant S3 Auth&lt;/a&gt; plugin allows you to easily pull Vagrant boxes down from Amazon S3. When Conduce moved from AWS to Google Cloud we needed a similar plugin for Google Storage. It didn&amp;rsquo;t exist.. so &lt;a href=&#34;https://rubygems.org/gems/vagrant-gsauth/versions/1.0.0&#34;&gt;I created it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;syntaxic-https-chrome-google-com-webstore-detail-syntaxtic-cgjalgdhmbpaacnnejmodfinclbdgaci-hl-en&#34;&gt;&lt;a href=&#34;https://chrome.google.com/webstore/detail/syntaxtic/cgjalgdhmbpaacnnejmodfinclbdgaci?hl=en&#34;&gt;Syntaxic&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;This Chrome extension by &lt;a href=&#34;https://github.com/ajmath&#34;&gt;Andrew Matheny&lt;/a&gt; adds syntax highlighting when viewing code files in your browser. I wanted a new feature in it so &lt;a href=&#34;https://github.com/ajmath/Syntaxtic/pull/62&#34;&gt;I added it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;gitlab-https-www-gitlab-com&#34;&gt;&lt;a href=&#34;https://www.gitlab.com&#34;&gt;Gitlab&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;I&amp;rsquo;m a huge fan of Gitlab&amp;rsquo;s platform and have submitted a few small UI and backend enhancements. Check out &lt;a href=&#34;https://gitlab.com/gitlab-org/gitlab-ce/merge_requests?author_username=jdipierro&amp;amp;scope=all&amp;amp;state=all&#34;&gt;my contributions&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;swagger-http-swagger-io-codegen-http-swagger-io-swagger-codegen&#34;&gt;&lt;a href=&#34;http://swagger.io/&#34;&gt;Swagger&lt;/a&gt; &lt;a href=&#34;http://swagger.io/swagger-codegen/&#34;&gt;Codegen&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;While generating a Java client library from a Swagger spec I ran into &lt;a href=&#34;https://github.com/swagger-api/swagger-codegen/issues/214&#34;&gt;an issue&lt;/a&gt; with how it handled an endpoint returning a List. I knew nothing about Scala but dove in head first to debug &lt;a href=&#34;https://github.com/swagger-api/swagger-codegen/pull/215&#34;&gt;and resolve&lt;/a&gt; the issue.&lt;/p&gt;
-</description>
+      <description>Hashicorp&amp;rsquo;s Terraform I added the ability to import several Google Cloud resources. Check out my closed pulled requests.
+Vagrant GS Auth The Vagrant S3 Auth plugin allows you to easily pull Vagrant boxes down from Amazon S3. When Conduce moved from AWS to Google Cloud we needed a similar plugin for Google Storage. It didn&amp;rsquo;t exist.. so I created it.
+Syntaxic This Chrome extension by Andrew Matheny adds syntax highlighting when viewing code files in your browser.</description>
     </item>
     
     <item>
@@ -142,29 +55,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/education/</guid>
-      <description>
-
-&lt;h2 id=&#34;conferences-attended&#34;&gt;Conferences attended&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;MongoDB World 2015&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.levelupcon.com/&#34;&gt;LevelUp Con&lt;/a&gt; 2014&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;schooling&#34;&gt;Schooling&lt;/h2&gt;
-
-&lt;h4 id=&#34;suny-adirondack-https-www-sunyacc-edu&#34;&gt;&lt;a href=&#34;https://www.sunyacc.edu/&#34;&gt;SUNY Adirondack&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h5 id=&#34;2010-2012&#34;&gt;2010-2012&lt;/h5&gt;
-
-&lt;p&gt;While I didn&amp;rsquo;t complete a degree I did finish all of the classes in the Computer Science track with high marks.&lt;/p&gt;
-
-&lt;h4 id=&#34;the-center-for-digital-imaging-arts-at-boston-university-https-en-wikipedia-org-wiki-center-for-digital-imaging-arts-at-boston-university&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Center_for_Digital_Imaging_Arts_at_Boston_University&#34;&gt;The Center for Digital Imaging Arts at Boston University&lt;/a&gt;&lt;/h4&gt;
-
-&lt;h5 id=&#34;2008-2009&#34;&gt;2008-2009&lt;/h5&gt;
-
-&lt;p&gt;I earned a Certificate Degree in Digital Photography during the Spring class of 2008.&lt;/p&gt;
-</description>
+      <description>Conferences attended  MongoDB World 2015 LevelUp Con 2014  Schooling SUNY Adirondack 2010-2012 While I didn&amp;rsquo;t complete a degree I did finish all of the classes in the Computer Science track with high marks.
+The Center for Digital Imaging Arts at Boston University 2008-2009 I earned a Certificate Degree in Digital Photography during the Spring class of 2008.</description>
     </item>
     
   </channel>
