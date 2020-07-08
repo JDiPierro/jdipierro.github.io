@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/summary/</guid>
-      <description>I&amp;rsquo;ve been working in software for over 5 years. Throughout my career my main focus has been on infrastructure automation and backend systems but I can also dig into frontend development with a focus on responsiveness and compatibility.</description>
+      <description>I&amp;rsquo;ve been working in software for over 8 years. Throughout my career my main focus has been on backend systems and infrastructure automation but I can also dig into frontend development with a focus on responsiveness and compatibility.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/experience/</guid>
-      <description> Senior Software Engineer at PUBG Mad Glory March 2018 to Present  Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams Managed production Kubernetes clusters Built an automated deployment pipeline from Gitlab to Kubernetes utilizing Helm  Senior Software Engineer at Mad Glory June 2017 to March 2018  Worked with Bethesda Softworks providing expertise in backend engineering and deployment automation  Site Reliability Engineer at Conduce October 2016 to June 2017  Utilized terraform modules to standardize environment definitions Implemented gitflow style automated deployment using Jenkins Scripted Pipeline Rebuilt infrastructure to reduce costs by 1/3rd while maintaining high availability  Software Engineer at Agora Games November 2014 to September 2016  Developed microservices for videogames using Python, Java, and Typescript Designed data models backed by MongoDB and Elasticsearch Managed deployments to AWS and Rackspace with SaltStack  Associate Software Engineer at CommerceHub April 2014 to November 2014  Used the YUI Javascript library to build a UI matching design mockups Implemented a microservice using Dropwizard to power the UI Set up continuous deployment using Bamboo, Artifactory, and Chef  Software Engineer I at Tribune Media Services November 2012 to April 2014  Introduced templates for ETL configurations to reduce copy-paste errors Added LDAP authentication to a Spring web application to track user interaction Used Ruby &amp;amp; Rails to prototype web-based versions of legacy systems  </description>
+      <description>Senior Software Engineer at PUBG Mad Glory March 2018 to Present  Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams Lead the push to start a VDP and bug bounty program on HackerOne and was the main point-of-contact with security researchers. Architected an Identity Management system to allow users to link identities on third party platforms with their PUBG account to earn rewards.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/skills_and_tech/</guid>
-      <description>Languages I&amp;rsquo;m currently most proficient in Python and Golang but I&amp;rsquo;d have no problem jumping back into Ruby, Java, or Groovy. Javascript doesn&amp;rsquo;t (entirely) scare me but I prefer Typescript. I can find my way around C++ and have even dug through a Scala codebase to fix a bug. And just for keywords: I do in fact know HTML and CSS (including preprocessors).
+      <description>Languages I&amp;rsquo;m currently most proficient in Golang and Python but I&amp;rsquo;d have no problem jumping back into Ruby, Java, or Groovy. Javascript doesn&amp;rsquo;t (entirely) scare me but I prefer Typescript. I can find my way around C++ and have even dug through a Scala codebase to fix a bug. And just for keywords: I do in fact know HTML and CSS (including preprocessors).
 Other Tools of the Trade When it comes to web frameworks I&amp;rsquo;ve worked with Rails, Grails, Meteor, and Spring.</description>
     </item>
     
@@ -44,9 +44,8 @@ Other Tools of the Trade When it comes to web frameworks I&amp;rsquo;ve worked w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/open_source/</guid>
-      <description>Hashicorp&amp;rsquo;s Terraform I added the ability to import several Google Cloud resources. Check out my closed pulled requests.
-Vagrant GS Auth The Vagrant S3 Auth plugin allows you to easily pull Vagrant boxes down from Amazon S3. When Conduce moved from AWS to Google Cloud we needed a similar plugin for Google Storage. It didn&amp;rsquo;t exist.. so I created it.
-Syntaxic This Chrome extension by Andrew Matheny adds syntax highlighting when viewing code files in your browser.</description>
+      <description>WSL - Golang Whitespace Linter This linter enforces that you have whitespace separating different types of code to increase readability. I wanted the ability to also enforce the opposite: Error checks should be cuddled with the line that assigned the error. I added that ability and helped make the linter&amp;rsquo;s code cleaner. Check out my closed PRs
+Hashicorp&amp;rsquo;s Terraform I added the ability to import several Google Cloud resources. Check out my closed pulled requests.</description>
     </item>
     
     <item>
