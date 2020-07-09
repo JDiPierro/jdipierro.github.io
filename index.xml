@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin DiPierro</title>
-    <link>https://jdipierro.github.io/</link>
+    <link>https://thatdipguy.com/</link>
     <description>Recent content on Justin DiPierro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://jdipierro.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thatdipguy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Summary</title>
-      <link>https://jdipierro.github.io/post/summary/</link>
+      <link>https://thatdipguy.com/post/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jdipierro.github.io/post/summary/</guid>
+      <guid>https://thatdipguy.com/post/summary/</guid>
       <description>I&amp;rsquo;ve been working in software for over 8 years. Throughout my career my main focus has been on backend systems and infrastructure automation but I can also dig into frontend development with a focus on responsiveness and compatibility.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://jdipierro.github.io/post/experience/</link>
+      <link>https://thatdipguy.com/post/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jdipierro.github.io/post/experience/</guid>
+      <guid>https://thatdipguy.com/post/experience/</guid>
       <description>Senior Software Engineer at PUBG Mad Glory March 2018 to Present  Built a system to push game events to eSports partners enabling real time displays at live events and overlays on streams Lead the push to start a VDP and bug bounty program on HackerOne and was the main point-of-contact with security researchers. Architected an Identity Management system to allow users to link identities on third party platforms with their PUBG account to earn rewards.</description>
     </item>
     
     <item>
       <title>Skills and Tech</title>
-      <link>https://jdipierro.github.io/post/skills_and_tech/</link>
+      <link>https://thatdipguy.com/post/skills_and_tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jdipierro.github.io/post/skills_and_tech/</guid>
+      <guid>https://thatdipguy.com/post/skills_and_tech/</guid>
       <description>Languages Recent Experience:
  Golang
  Python
@@ -61,20 +61,20 @@
     
     <item>
       <title>Open Source</title>
-      <link>https://jdipierro.github.io/post/open_source/</link>
+      <link>https://thatdipguy.com/post/open_source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jdipierro.github.io/post/open_source/</guid>
+      <guid>https://thatdipguy.com/post/open_source/</guid>
       <description>WSL - Golang Whitespace Linter This linter enforces that you have whitespace separating different types of code to increase readability. I wanted the ability to also enforce the opposite: Error checks should be cuddled with the line that assigned the error. I added that ability and helped make the linter&amp;rsquo;s code cleaner. Check out my closed PRs
 Hashicorp&amp;rsquo;s Terraform I added the ability to import several Google Cloud resources. Check out my closed pulled requests.</description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://jdipierro.github.io/post/education/</link>
+      <link>https://thatdipguy.com/post/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jdipierro.github.io/post/education/</guid>
+      <guid>https://thatdipguy.com/post/education/</guid>
       <description>Conferences attended  MongoDB World 2015 LevelUp Con 2014  Schooling SUNY Adirondack 2010-2012 While I didn&amp;rsquo;t complete a degree I did finish all of the classes in the Computer Science track with high marks.
 The Center for Digital Imaging Arts at Boston University 2008-2009 I earned a Certificate Degree in Digital Photography during the Spring class of 2008.</description>
     </item>
