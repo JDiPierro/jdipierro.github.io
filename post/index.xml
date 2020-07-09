@@ -34,8 +34,29 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jdipierro.github.io/post/skills_and_tech/</guid>
-      <description>Languages I&amp;rsquo;m currently most proficient in Golang and Python but I&amp;rsquo;d have no problem jumping back into Ruby, Java, or Groovy. Javascript doesn&amp;rsquo;t (entirely) scare me but I prefer Typescript. I can find my way around C++ and have even dug through a Scala codebase to fix a bug. And just for keywords: I do in fact know HTML and CSS (including preprocessors).
-Other Tools of the Trade When it comes to web frameworks I&amp;rsquo;ve worked with Rails, Grails, Meteor, and Spring.</description>
+      <description>Languages Recent Experience:
+ Golang
+ Python
+ Javascript / Typescript
+   Past Experience:
+ Ruby
+ C#
+ Java
+ Groovy
+    Build + Deploy Tools Recent Experience:
+ AWS
+ Docker
+ Kubernetes
+ Helm
+ Gitlab
+   Past Experience:
+ Google Cloud Platform
+ CloudFormation
+ SaltStack
+ Chef
+ Jenkins
+ Bamboo
+    Data Storage and Processing Recent Experience:</description>
     </item>
     
     <item>
