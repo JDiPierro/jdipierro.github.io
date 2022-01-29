@@ -66,7 +66,7 @@
       
       <guid>https://thatdipguy.com/post/open_source/</guid>
       <description>WSL - Golang Whitespace Linter This linter enforces that you have whitespace separating different types of code to increase readability. I wanted the ability to also enforce the opposite: Error checks should be cuddled with the line that assigned the error. I added that ability and helped make the linter&amp;rsquo;s code cleaner. Check out my closed PRs
-Hashicorp&amp;rsquo;s Terraform I added the ability to import several Google Cloud resources. Check out my closed pulled requests.</description>
+Planefence I&amp;rsquo;m an aviation enthusiast and I have a RaspberryPi with an antenna that picks up messages from aircraft flying overhead.</description>
     </item>
     
     <item>
